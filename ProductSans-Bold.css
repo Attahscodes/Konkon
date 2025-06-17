@@ -1,6 +1,6 @@
 @font-face {
-  font-family: 'MyCustomFont';
+  font-family: 'Product Sans';
   src: url('https://github.com/Attahscodes/Konkon/blob/main/ProductSans-Bold.ttf') format('ttf');
-  font-weight: normal;
+  font-weight: bold;
   font-style: normal;
 }

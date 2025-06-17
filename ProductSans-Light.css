@@ -1,6 +1,7 @@
 @font-face {
-  font-family: 'MyCustomFont';
+  font-family: 'Product Sans';
   src: url('https://github.com/Attahscodes/Konkon/blob/main/ProductSans-LightItalic.ttf') format('ttf');
-  font-weight: normal;
+  font-weight: 300;
   font-style: normal;
 }
+
